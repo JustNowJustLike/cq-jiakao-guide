@@ -1,0 +1,13 @@
+# Windows thumbnail database
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Folder config file
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
