@@ -19,6 +19,8 @@
 * [扣 1 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A31%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣1分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A31%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
 * [扣 3 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A33%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣3分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A33%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
 * [扣 6 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A36%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣6分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A36%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
+* [扣 9 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A39%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣9分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A39%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
+* [扣 12 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A312%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣12分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A312%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
 
 ### 2. 扣分梯度对比表
 为了防混淆，建议对比记忆相同违规行为在不同场景下的扣分区别：
