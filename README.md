@@ -21,6 +21,11 @@
 * [扣 6 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A36%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣6分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A36%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
 * [扣 9 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A39%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣9分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A39%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
 * [扣 12 分违法行为速记指南](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A312%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md) (相对路径：[驾考笔记/扣12分关键词.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E6%89%A312%E5%88%86%E5%85%B3%E9%94%AE%E8%AF%8D.md))
+* [号牌扣分 3、9、12 专项速记](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E5%8F%B7%E7%89%8C%E6%89%A3%E5%88%863912.md) (相对路径：[驾考笔记/号牌扣分3912.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E5%8F%B7%E7%89%8C%E6%89%A3%E5%88%863912.md))
+* [超速扣分 9 种专项速记](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E8%B6%85%E9%80%9F%E6%89%A3%E5%88%86.md) (相对路径：[驾考笔记/超速扣分.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E8%B6%85%E9%80%9F%E6%89%A3%E5%88%86.md))
+* [超员扣分 7 种专项速记](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E8%B6%85%E5%91%98%E6%89%A3%E5%88%86.md) (相对路径：[驾考笔记/超员扣分.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E8%B6%85%E5%91%98%E6%89%A3%E5%88%86.md))
+* [货车超载 1、3、6 专项速记](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E8%B4%A7%E8%BD%A6%E8%B6%85%E8%BD%BD136.md) (相对路径：[驾考笔记/货车超载136.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E8%B4%A7%E8%BD%A6%E8%B6%85%E8%BD%BD136.md))
+* [罚款 200 元以下专项速记](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E7%BD%9A%E6%AC%BE200%E5%85%83%E4%BB%A5%E4%B8%8B.md) (相对路径：[驾考笔记/罚款200元以下.md](file:///F:/myGithub/cq-jiakao-guide/%E9%A9%BE%E8%80%83%E7%AC%94%E8%AE%B0/%E7%BD%9A%E6%AC%BE200%E5%85%83%E4%BB%A5%E4%B8%8B.md))
 
 ### 2. 扣分梯度对比表
 为了防混淆，建议对比记忆相同违规行为在不同场景下的扣分区别：
